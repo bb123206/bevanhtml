@@ -1,0 +1,18 @@
+h1{
+text-align=center
+}
+.navbar ul{
+list-style-type:none;
+background-color:red;
+overflow:hidden;
+}
+.navbar a{
+color:white;
+text-decoration:none;
+padding:20;
+display:block;
+text-align:center;
+}
+.navbar li{
+float:left;
+}
